@@ -1,0 +1,26 @@
+{
+  "nome": "Camile Vitória Rosa Santos",
+  "foto": "https://media.licdn.com/dms/image/v2/D4D03AQHcC9gkWw53VQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729104752573?e=1757548800&v=beta&t=2cTzIZ8Z8U7C9bkzIMmY0-zKaW9rMjXCNfo5EIpPe_w",
+  "dataNascimento": "01/05/2005",
+  "email": "camisvitoriarosasantos2005@gmail.com",
+  "telefone": "(11) 97389-2455",
+  "linkedin": "www.linkedin.com/in/camile-vitória-aa5597248",
+  "github": " https://github.com/Camis25 ",
+  "conhecimentos": ["HTML", "CSS", "JavaScript", "SQL"],
+  "experiencias": [
+    {
+      "cargo": "Estágiaria de Banco de Dados",
+      "empresa": "IQVIA",
+      "atividades": "Suporte e análise de informações no mercado em SQL.",
+      "inicio": "08/2025",
+      "fim": "Atual"
+    }
+  ],
+  "formacao": [
+    {
+      "curso": "Curso Técnico em Informática",
+      "instituicao": "Instituto Nossa Senhora de Fátima",
+      "termino": "12/2022"
+    }
+  ]
+}
